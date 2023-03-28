@@ -14,6 +14,48 @@ export const data = [
         html:'michaelJimenez',
         imagePath:'images/michaelJimenez.jpg'
 
+     },
+    {
+        firstName:'Marlon',
+        lastName:'Dowdell',
+        location: 'Riverside CA',
+        html:'marlonDowdell.html',
+        imagePath:'images/marlonDowdell.jpg'
+    },
+    {
+        firstName:'Nathan',
+        lastName:'Sobarnia',
+        location: 'San Jacinto, CA',
+        html:'nathanSobarnia.html',
+        imagePath:'images/nathanSobarnia.jpg'
+    },
+    {
+        firstName:'Alireza',
+        lastName:'Soloukdar',
+        location: 'California, CA',
+        html:'alirezaSoloukdar.html',
+        imagePath:'images/alirezaSoloukdar.jpg'
+     }  
+        firstName:'Tamari',
+        lastName:'Tinsley',
+        location: 'California, CA',
+        html:'tamariTinsley.html',
+        imagePath:'images/tamariTinsley.jpg'
+    },
+    {
+        firstName:'Iwona',
+        lastName:'LaFave',
+        location: 'Redlands, Ca',
+        html:'iwonaLafave.html',
+        imagePath:'images/iwonaLafave.jpg'
+
+    },{
+        firstName:'Jerry',
+        lastName:'Parker',
+        location: 'Ontario, CA',
+        html:'jerryParker.html',
+        imagePath:'images/jerryParker.jpg'
+
     },{
         firstName:'Woranan',
         lastName:'Hernandez',
@@ -40,5 +82,6 @@ export const data = [
         imagePath:'images/bonnieLee.jpg'
 
     },
+
 ]
 
