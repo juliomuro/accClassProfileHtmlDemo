@@ -5,6 +5,15 @@ export const data = [
         location: 'Philadephia, PA',
         html:'davidLiang.html',
         imagePath:'images/davidLiang.jpg'
+
+    },
+    {
+        firstName:'Michael',
+        lastName:'Jimenez',
+        location: 'Redlands, CA',
+        html:'michaelJimenez',
+        imagePath:'images/michaelJimenez.jpg'
+
      },
     {
         firstName:'Marlon',
@@ -54,6 +63,7 @@ export const data = [
         location: 'Ontario, CA',
         html:'jerryParker.html',
         imagePath:'images/jerryParker.jpg'
+
     },{
         firstName:'Woranan',
         lastName:'Hernandez',
@@ -78,6 +88,7 @@ export const data = [
         location: 'Fontana, CA',
         html:'bonnieLee.html',
         imagePath:'images/bonnieLee.jpg'
+
     },
 
 ]
