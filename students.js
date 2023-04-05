@@ -29,7 +29,8 @@ export const data = [
         location: 'San Jacinto, CA',
         html:'danielSantoscoy.html',
         imagePath:'images/danielSantoscoy.jpg'
-
+    },
+    {
         firstName:'Nathan',
         lastName:'Sobarnia',
         location: 'San Jacinto, CA',
@@ -43,7 +44,8 @@ export const data = [
         location: 'California, CA',
         html:'alirezaSoloukdar.html',
         imagePath:'images/alirezaSoloukdar.jpg'
-     }  
+     },
+     {  
         firstName:'Tamari',
         lastName:'Tinsley',
         location: 'California, CA',
