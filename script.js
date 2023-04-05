@@ -11,7 +11,7 @@ data.forEach(student=>{
     const a = document.createElement('a')
     const p = document.createElement('p')
     const img = document.createElement('img')
-    a.href = 'davidLiang.html'
+    a.href = html
     a.textContent = "details"
     div.setAttribute('class','card')
     img.setAttribute('src',imagePath)
